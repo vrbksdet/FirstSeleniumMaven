@@ -1,7 +1,7 @@
 node{
    stage('SCM Checkout')
    {
-    git 'https://github.com/vrbksdet/FirstSeleniumMaven.git'
+    git 'https://github.com/vrbksdet/FirstSeleniumMaven'
    }
    stage('maven')
    {
