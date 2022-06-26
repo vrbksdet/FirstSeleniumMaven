@@ -1,2 +1,2 @@
-git clone https://github.com/vrbksdet/FirstSeleniumMaven.git
+git https://github.com/vrbksdet/FirstSeleniumMaven.git
 mvn test
