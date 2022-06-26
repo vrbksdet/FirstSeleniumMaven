@@ -1,2 +1,2 @@
 git https://github.com/vrbksdet/FirstSeleniumMaven.git
-mvn test
+bat "mvn clean install"
