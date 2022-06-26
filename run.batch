@@ -1,0 +1,2 @@
+git clone https://github.com/vrbksdet/FirstSeleniumMaven.git
+mvn test
